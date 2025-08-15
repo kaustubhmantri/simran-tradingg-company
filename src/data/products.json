@@ -1,0 +1,332 @@
+{
+  "chemicalFreeHerbal": [
+    {
+      "id": "adivasi-oil",
+      "name": "Adivasi Oil",
+      "benefits": "Traditional herbal oil for hair nourishment and scalp health",
+      "ingredients": "Natural herbal extracts, Traditional Adivasi formulation",
+      "image": "https://images.pexels.com/photos/7640743/pexels-photo-7640743.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "adivashi-shampoo",
+      "name": "Adivashi Shampoo",
+      "benefits": "Chemical-free herbal shampoo for gentle hair cleansing",
+      "ingredients": "Natural herbal extracts, Chemical-free formulation",
+      "image": "https://images.pexels.com/photos/7755448/pexels-photo-7755448.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "dermatine-cream",
+      "name": "Dermatine Cream",
+      "benefits": "Herbal skin care cream for healthy and glowing skin",
+      "ingredients": "Natural herbal extracts, Skin-friendly ingredients",
+      "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "dazzing-hair-shampoo",
+      "name": "Dazzing Hair Shampoo",
+      "benefits": "Herbal shampoo for shiny and healthy hair",
+      "ingredients": "Natural herbal extracts, Hair strengthening formula",
+      "image": "https://images.pexels.com/photos/7755448/pexels-photo-7755448.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "ayurvedic-alovera-soap",
+      "name": "Ayurvedic Alovera Soap",
+      "benefits": "Natural aloe vera soap for gentle skin cleansing and moisturizing",
+      "ingredients": "Aloe Vera, Natural soap base, Herbal extracts",
+      "image": "https://images.pexels.com/photos/4465831/pexels-photo-4465831.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "ayurvedic-redwine-soap",
+      "name": "Ayurvedic Redwine Soap",
+      "benefits": "Antioxidant-rich soap for skin rejuvenation and anti-aging",
+      "ingredients": "Red wine extracts, Natural soap base, Ayurvedic herbs",
+      "image": "https://images.pexels.com/photos/7640856/pexels-photo-7640856.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "ayurvedic-panchagavya-soap",
+      "name": "Ayurvedic Panchagavya Soap",
+      "benefits": "Traditional Panchagavya soap for purification and skin health",
+      "ingredients": "Panchagavya, Natural soap base, Ayurvedic herbs",
+      "image": "https://images.pexels.com/photos/4465831/pexels-photo-4465831.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "ayurvedic-kapoor-soap",
+      "name": "Ayurvedic Kapoor Soap",
+      "benefits": "Camphor-infused soap for refreshing and antiseptic cleansing",
+      "ingredients": "Kapoor (Camphor), Natural soap base, Ayurvedic herbs",
+      "image": "https://images.pexels.com/photos/7640856/pexels-photo-7640856.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    },
+    {
+      "id": "rachni-mehendi",
+      "name": "Rachni Mehendi",
+      "benefits": "Natural henna for hair coloring and conditioning",
+      "ingredients": "Pure Henna, Natural herbal extracts",
+      "image": "https://images.pexels.com/photos/7640743/pexels-photo-7640743.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "chemicalFreeHerbal"
+    }
+  ],
+  "ayurvedicProducts": [
+    {
+      "id": "ayurvedic-vatt-churna",
+      "name": "Ayurvedic Vatt Churna",
+      "benefits": "Traditional Ayurvedic powder for digestive health and wellness",
+      "ingredients": "Ayurvedic herbs, Traditional formulation",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    },
+    {
+      "id": "ayurvedic-sandi-vatt-churna",
+      "name": "Ayurvedic Sandi Vatt Churna",
+      "benefits": "Specialized Ayurvedic churna for joint health and mobility",
+      "ingredients": "Joint-supporting herbs, Traditional Ayurvedic formulation",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    },
+    {
+      "id": "ayurvedic-mutt-khada-churna",
+      "name": "Ayurvedic Mutt Khada Churna",
+      "benefits": "Traditional Ayurvedic powder for urinary health",
+      "ingredients": "Kidney-supporting herbs, Ayurvedic formulation",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    },
+    {
+      "id": "ayurvedic-aasthma-churna",
+      "name": "Ayurvedic Aasthma Churna",
+      "benefits": "Ayurvedic formulation for respiratory health and breathing support",
+      "ingredients": "Respiratory-supporting herbs, Traditional Ayurvedic blend",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    },
+    {
+      "id": "ayurvedic-sada-bavasir-churna",
+      "name": "Ayurvedic Sada Bavasir Churna",
+      "benefits": "Traditional Ayurvedic remedy for hemorrhoid relief",
+      "ingredients": "Hemorrhoid-relief herbs, Ayurvedic formulation",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    },
+    {
+      "id": "ayurvedic-khuni-bavasir-churna",
+      "name": "Ayurvedic Khuni Bavasir Churna",
+      "benefits": "Specialized Ayurvedic churna for bleeding hemorrhoids",
+      "ingredients": "Blood-stopping herbs, Traditional Ayurvedic blend",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    },
+    {
+      "id": "zinzora-malam",
+      "name": "Zinzora Malam",
+      "benefits": "Ayurvedic topical ointment for external application",
+      "ingredients": "Healing herbs, Natural ointment base",
+      "image": "https://images.pexels.com/photos/7755579/pexels-photo-7755579.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    },
+    {
+      "id": "malshodhak-churna",
+      "name": "Malshodhak Churna",
+      "benefits": "Ayurvedic detoxification powder for internal cleansing",
+      "ingredients": "Detoxifying herbs, Traditional Ayurvedic formulation",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "ayurvedicProducts"
+    }
+  ],
+  "bodyCareProducts": [
+    {
+      "id": "veda-body-lotion",
+      "name": "Veda Body Lotion",
+      "benefits": "Nourishing body lotion for soft and smooth skin",
+      "ingredients": "Natural moisturizers, Herbal extracts",
+      "image": "https://images.pexels.com/photos/6621496/pexels-photo-6621496.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    },
+    {
+      "id": "veda-shampoo-hair",
+      "name": "Veda Shampoo Hair",
+      "benefits": "Herbal shampoo for healthy hair and scalp care",
+      "ingredients": "Natural cleansers, Hair-nourishing herbs",
+      "image": "https://images.pexels.com/photos/7755448/pexels-photo-7755448.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    },
+    {
+      "id": "veda-cleansing-milk",
+      "name": "Veda Cleansing Milk",
+      "benefits": "Gentle cleansing milk for makeup removal and skin cleansing",
+      "ingredients": "Natural cleansers, Milk proteins, Herbal extracts",
+      "image": "https://images.pexels.com/photos/7796885/pexels-photo-7796885.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    },
+    {
+      "id": "veda-facewash",
+      "name": "Veda Facewash",
+      "benefits": "Herbal face wash for deep cleansing and refreshing skin",
+      "ingredients": "Natural cleansers, Skin-purifying herbs",
+      "image": "https://images.pexels.com/photos/7796885/pexels-photo-7796885.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    },
+    {
+      "id": "veda-life-cream",
+      "name": "Veda Life Cream",
+      "benefits": "Multi-purpose herbal cream for skin nourishment and protection",
+      "ingredients": "Life-enhancing herbs, Natural moisturizers",
+      "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    },
+    {
+      "id": "veda-aloevera-gel",
+      "name": "Veda Aloevera Gel",
+      "benefits": "Pure aloe vera gel for soothing and healing skin",
+      "ingredients": "Pure Aloe Vera, Natural gel base",
+      "image": "https://images.pexels.com/photos/6621329/pexels-photo-6621329.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    },
+    {
+      "id": "safrogel-body-lotion",
+      "name": "Safrogel Body Lotion",
+      "benefits": "Moisturizing body lotion for daily skin care",
+      "ingredients": "Moisturizing agents, Skin-softening ingredients",
+      "image": "https://images.pexels.com/photos/6621496/pexels-photo-6621496.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    },
+    {
+      "id": "saundarya-sanskar-body-lotion",
+      "name": "Saundarya Sanskar Body Lotion",
+      "benefits": "Beauty-enhancing body lotion for radiant skin",
+      "ingredients": "Beauty-enhancing herbs, Natural moisturizers",
+      "image": "https://images.pexels.com/photos/6621496/pexels-photo-6621496.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "bodyCareProducts"
+    }
+  ],
+  "skinCareProducts": [
+    {
+      "id": "veda-turmeric",
+      "name": "Veda Turmeric",
+      "benefits": "Turmeric-based product for natural skin brightening and glow",
+      "ingredients": "Pure Turmeric, Herbal extracts",
+      "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "dr-upgades-wang-oil",
+      "name": "Dr. Upgade's Wang Oil",
+      "benefits": "Specialized herbal oil for targeted skin care",
+      "ingredients": "Herbal oil blend, Traditional formulation",
+      "image": "https://images.pexels.com/photos/7640743/pexels-photo-7640743.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "dr-upgades-wang-soap",
+      "name": "Dr. Upgade's Wang Soap",
+      "benefits": "Specialized herbal soap for skin care and cleansing",
+      "ingredients": "Herbal soap base, Traditional ingredients",
+      "image": "https://images.pexels.com/photos/4465831/pexels-photo-4465831.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "zinpi-lotion",
+      "name": "Zinpi Lotion",
+      "benefits": "Therapeutic lotion for skin care and protection",
+      "ingredients": "Therapeutic herbs, Skin-protecting agents",
+      "image": "https://images.pexels.com/photos/6621496/pexels-photo-6621496.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "natrodan-shampoo",
+      "name": "Natrodan Shampoo",
+      "benefits": "Natural shampoo for healthy hair and scalp",
+      "ingredients": "Natural cleansers, Hair-nourishing herbs",
+      "image": "https://images.pexels.com/photos/7755448/pexels-photo-7755448.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "smartglow-shampoo",
+      "name": "Smartglow Shampoo",
+      "benefits": "Glow-enhancing shampoo for lustrous hair",
+      "ingredients": "Shine-enhancing herbs, Natural cleansers",
+      "image": "https://images.pexels.com/photos/7755448/pexels-photo-7755448.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "pimplora-soap",
+      "name": "Pimplora Soap",
+      "benefits": "Anti-acne soap for clear and healthy skin",
+      "ingredients": "Acne-fighting herbs, Natural soap base",
+      "image": "https://images.pexels.com/photos/7640856/pexels-photo-7640856.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "pias-cream",
+      "name": "Pias Cream",
+      "benefits": "Therapeutic cream for skin care and healing",
+      "ingredients": "Healing herbs, Natural cream base",
+      "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "kumkumadi-tailam",
+      "name": "Kumkumadi Tailam",
+      "benefits": "Premium Ayurvedic oil for skin brightening and anti-aging",
+      "ingredients": "Saffron, Kumkumadi herbs, Premium oil base",
+      "image": "https://images.pexels.com/photos/7640743/pexels-photo-7640743.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "safrogel",
+      "name": "Safrogel",
+      "benefits": "Multi-purpose gel for skin care and healing",
+      "ingredients": "Therapeutic gel base, Healing herbs",
+      "image": "https://images.pexels.com/photos/6621329/pexels-photo-6621329.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "brahmakumari-hair-oil",
+      "name": "Brahmakumari Hair Oil",
+      "benefits": "Spiritual and therapeutic hair oil for hair growth and scalp health",
+      "ingredients": "Sacred herbs, Hair-nourishing oils",
+      "image": "https://images.pexels.com/photos/7640743/pexels-photo-7640743.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "bio-collegen-real-deep-mask",
+      "name": "Bio Collegen Real Deep Mask",
+      "benefits": "Deep cleansing and anti-aging face mask with collagen",
+      "ingredients": "Bio Collagen, Deep cleansing agents, Anti-aging compounds",
+      "image": "https://images.pexels.com/photos/6621329/pexels-photo-6621329.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "fruit-facial-kit",
+      "name": "Fruit Facial Kit",
+      "benefits": "Complete fruit-based facial kit for natural skin care",
+      "ingredients": "Natural fruit extracts, Facial care essentials",
+      "image": "https://images.pexels.com/photos/7796885/pexels-photo-7796885.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    },
+    {
+      "id": "gold-facial-kit",
+      "name": "Gold Facial Kit",
+      "benefits": "Luxurious gold facial kit for premium skin care and glow",
+      "ingredients": "Gold particles, Premium facial care ingredients",
+      "image": "https://images.pexels.com/photos/7796885/pexels-photo-7796885.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "skinCareProducts"
+    }
+  ],
+  "weightLossProducts": [
+    {
+      "id": "bijak-wooden-cup",
+      "name": "Bijak Wooden Cup",
+      "benefits": "Traditional wooden cup for Ayurvedic weight loss practices",
+      "ingredients": "Natural wood, Traditional craftsmanship",
+      "image": "https://images.pexels.com/photos/7754498/pexels-photo-7754498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "weightLossProducts"
+    }
+  ]
+}
